@@ -1,0 +1,25 @@
+{
+  "name": "rafaaudibert",
+  "version": "1.0.0",
+  "description": "Rafa Audibert's terminal business card",
+  "main": "bin.js",
+  "bin": {
+    "rafaaudibert": "bin.js"
+  },
+  "scripts": {
+    "start": "node bin.js"
+  },
+  "keywords": [
+    "cli",
+    "business-card",
+    "npx"
+  ],
+  "author": "Rafael Audibert <hey@rafaaudibert.dev> (https://rafaaudibert.dev)",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2"
+  },
+  "engines": {
+    "node": ">=10"
+  }
+}
