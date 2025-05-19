@@ -1,6 +1,6 @@
 {
   "name": "rafaaudibert",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Rafa Audibert's terminal business card",
   "main": "bin.js",
   "bin": {
